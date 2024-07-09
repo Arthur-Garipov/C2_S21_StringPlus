@@ -51,6 +51,12 @@ make clean
 ```
 
 В разработке проекта участвовали:
-Морозов Григорий <https://github.com/Back6pace>
-Игорь Михалкин <https://github.com/ricardac1>
-Тимур <https://github.com/Mimino-01>
+
+- Морозов Григорий <https://github.com/Back6pace>
+- Игорь Михалкин <https://github.com/ricardac1>
+- Тимур <https://github.com/Mimino-01>
+
+
+Ссылка на первичный проект:
+
+<https://github.com:Mimino-01/string-.git>
